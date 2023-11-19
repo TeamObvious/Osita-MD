@@ -1,19 +1,10 @@
-### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
-- ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-```bash
-cd && termux-setup-storage
-```
+### `👑 𝗦𝗮𝗺𝘂𝗿𝗮𝗶 𝗥𝗲𝘆 👑` 
 
 ```bash
-apt-get update -y && apt-get upgrade -y
-```
+cd && termux-setup-storage && apt-get update -y && apt-get upgrade -y && pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 
 ```bash
-pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn 
-```
-
-```bash
-git clone https://github.com/TeamObvious/Violet-MD.git && cd Violet-MD
+git clone https://github.com/TeamObvious/Samurai-Rey.git && cd Samurai-Rey
 ```
 
 ```bash
@@ -29,21 +20,4 @@ npm install
 npm start
 ```
 
-### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE EN TERMUX ✔️`
-```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd 
-> cd Mystic-termux
-> npm start
-```
-
-### `—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽`
-- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTRL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A Mystic-termux $  
-```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd 
-> cd Mystic-termux
-> rm -rf MysticSession
-> npm start
-```
  
