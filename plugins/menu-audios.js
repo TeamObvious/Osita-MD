@@ -19,7 +19,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = `👑 𝗦𝗮𝗺𝘂𝗿𝗮𝗶 𝗥𝗲𝘆 👑
+    const str = `🐼  𝐎𝐬𝐢𝐭𝐚 𝐁𝐨𝐭  🐼
     
 ➤ *𝗛ola, ${taguser} Mira Estos Comandos 😝*
 
