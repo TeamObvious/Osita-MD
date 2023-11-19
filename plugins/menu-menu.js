@@ -33,6 +33,16 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
  ►🐼 𝘾𝙧𝙚𝙖𝙙𝙤𝙧: +51 906 528 530
  ►🐼 𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢: @𝘚𝘰𝘺_𝘖𝘴𝘪𝘵𝘢.𝘧𝘧
  ◣━━━━━━━━━━━◢
+
+ *« Vs / Reglas »*
+ 
+ ◤━━━━━━━━━━━◥
+  ►🐼 _${usedPrefix}Vs4_
+  ►🐼 _${usedPrefix}Vs8_
+  ►🐼 _${usedPrefix}Infinito_
+  ►🐼 _${usedPrefix}Vivido_
+  ►🐼 _${usedPrefix}Mapa_
+ ◣━━━━━━━━━━━◢
  
  *« MENUS ADICIONALES »*
  
