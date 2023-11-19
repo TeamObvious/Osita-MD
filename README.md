@@ -1,5 +1,5 @@
 ### `👑 𝗦𝗮𝗺𝘂𝗿𝗮𝗶 𝗥𝗲𝘆 👑` 
-
+ 
 ```bash
 cd && termux-setup-storage && apt-get update -y && apt-get upgrade -y && pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
