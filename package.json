@@ -1,7 +1,7 @@
 {
-  "name": "Rey",
+  "name": "Osita",
   "version": "1.0.0",
-  "description": "Rey El Mejor Bot",
+  "description": "Osita La Mejor Bot",
   "main": "index.js",
   "type": "module",
   "directories": {
@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/TeamObvious/Samurai-Rey",
+  "homepage": "https://github.com/TeamObvious/Osita-MD",
   "author": {
     "name": "TeamObvious"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TeamObvious/Samurai-Rey.git"
+    "url": "git+https://github.com/TeamObvious/Osita-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/TeamObvious/Samurai-Rey/issues"
+    "url": "https://github.com/TeamObvious/Osita-MD/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
