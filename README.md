@@ -14,9 +14,7 @@ yarn install
 
 ```bash
 npm install
-`
-
-``
+```
 
 
 ```bash
