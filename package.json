@@ -1,7 +1,7 @@
 {
-  "name": "TeamRed",
+  "name": "Rey",
   "version": "1.0.0",
-  "description": "Red El Mejor Bot",
+  "description": "Rey El Mejor Bot",
   "main": "index.js",
   "type": "module",
   "directories": {
@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/TeamObvious/RED",
+  "homepage": "https://github.com/TeamObvious/Samurai-Rey",
   "author": {
     "name": "TeamObvious"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TeamObvious/RED.git"
+    "url": "git+https://github.com/TeamObvious/Samurai-Rey.git"
   },
   "bugs": {
-    "url": "https://github.com/TeamObvious/RED/issues"
+    "url": "https://github.com/TeamObvious/Samurai-Rey/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
